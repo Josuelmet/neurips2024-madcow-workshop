@@ -194,36 +194,6 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 
 
 
-### Speakers
-
-<table style="width:100%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-bo-li-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-ruoxi-jia-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-adam-dziedzic-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-florian-tramer-square.png" height="170" width="170"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Associate Professor, UIUC</td>
-    <td style="text-align:center"><a href="https://ruoxijia.info/">Ruoxi Jia</a> <br> Assistant Professor, Virginia Tech</td>
-    <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <br> Assistant Professor, CISPA</td>
-    <td style="text-align:center"><a href="https://floriantramer.com/">Florian Tramèr</a> <br> Assistant Professor, ETH Zürich</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-yiming-li-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-baoyuan-wu-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-jonas-geiping.png" height="170" width="170"></td>
-    <td style="text-align:center"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="http://liyiming.tech/">Yiming Li</a> <br> Research Professor, Zhejiang University</td>
-    <td style="text-align:center"><a href="https://sites.google.com/site/baoyuanwu2015/">Baoyuan Wu</a> <br> Associate Professor, CUHK-Shenzhen</td>
-    <td style="text-align:center"><a href="https://jonasgeiping.github.io/">Jonas Geiping</a> <br> Research Group Leader, ELLIS Institute & MPI-IS	</td>
-    <!-- <td style="text-align:center"><a href="https://dawnsong.io/">Dawn Song</a> <br> Professor, UC Berkeley	</td> -->
-    <td style="text-align:center"></td>
-  </tr>
-</table>
-
 ### Panelists
 
 
@@ -254,80 +224,49 @@ We gratefully acknowledge the support from our Sponsors.
 <td style="text-align:center; border: none;"><a href="https://www.google.org/"><img src="assets/img/sponsor-google.png" height="75"></a></td>
 </table>
 
+
 ### Organizers 
 
-
 <table style="width:100%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/org-khoa-doan-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-anidruddha-saha-square.jpeg" height="150"  width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-anh-tran-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-yingjie-lao-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-kok-seng-wong-square.png" height="150" width="150"></td>
+  <tbody><tr>
+    <td style="text-align:center"><img src="assets/img/org-richard-baraniuk-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-sina-alemohammad-square.jfif" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-julia-kempe-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://khoadoan.me">Khoa D Doan</a> <br>VinUniversity, Vietnam</td>
-    <td style="text-align:center"><a href="https://ani0075saha.github.io">Aniruddha Saha</a> <br>University of Maryland, College Park, USA</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en">Anh Tuan Tran</a> <br>VinAI Research, Vietnam</td>
-    <td style="text-align:center"><a href="https://ylao.people.clemson.edu">Yingjie Lao</a> <br>Clemson University, USA</td>
-    <td style="text-align:center"><a href="https://vinuni.edu.vn/people/kok-seng-wong">Kok-seng Wong</a> <br>VinUniversity, Vietnam</td>
+    <td style="text-align:center"><a href="https://richb.rice.edu/">Richard G. Baraniuk</a> <br>Rice University, USA</td>
+    <td style="text-align:center"><a href="https://www.linkedin.com/in/sina-alemohammad-837b0ab6/">Sina Alemohammad</a> <br>Rice University, USA</td>
+    <td style="text-align:center"><a href="https://cims.nyu.edu/~kempe/">Julia Kempe</a> <br>New York University, USA</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/org-ang-li-square.jpeg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150"  width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-eugene-bagdasaryan-square.jpeg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-micah-goldblum-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-tom-goldstein-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-ilia-shumailov-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-tshilidzi-marwala-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-jathan-sadowski-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://simular.ai">Ang Li</a> <br>Simular Research, USA</td>
-    <td style="text-align:center"><a href="https://haripriyaaharikumar.github.io">Haripriya Harikumar</a> <br>Deakin University, Australia</td>
-    <td style="text-align:center"><a href="https://ebagdasa.github.io/">Eugene Bagdasaryan</a> <br>Cornell Tech, USA</td>
-    <td style="text-align:center"><a href="https://goldblum.github.io/">Micah Goldblum</a> <br>New York University, USA</td>
-    <td style="text-align:center"><a href="https://www.cs.umd.edu/~tomg/">Tom Goldstein</a> <br>University of Maryland, College Park, USA</td>
+    <td style="text-align:center"><a href="https://x.com/iliaishacked">Ilia Shumailov</a> <br>DeepMind, UK</td>
+    <td style="text-align:center"><a href="https://en.wikipedia.org/wiki/Tshilidzi_Marwala">Tshilidzi Marwala</a> <br>United Nations University, Japan</td>
+    <td style="text-align:center"><a href="https://www.jathansadowski.com/">Jathan Sadowski</a> <br>Monash University, Australia</td>
   </tr>
-</table>
-
+</tbody></table>
 
 ### Organizers affiliations
-<!-- <td style="text-align:center"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="75"></a></td>
-<br>
-
-<td style="text-align:center"><a href="https://www.cs.umd.edu/"><img src="assets/img/inst-umd-cs.png" height="75"></a></td>
-<br>
-
-<td style="text-align:center"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="75"></a></td>
-<br>
-
-
-<td style="text-align:center"><a href="https://www.clemson.edu/index.html"><img src="assets/img/inst-clemson.png" height="75"></a></td>
-<br>
-
-<td style="text-align:center"><a href="https://www.deakin.edu.au/"><img src="assets/img/inst-deakin.png" height="75"></a></td>
-<br>
-
-<td style="text-align:center"><a href="https://tech.cornell.edu/"><img src="assets/img/inst-cornell-tech.png" height="75"></a></td>
-<br>
-
-<td style="text-align:center"><a href="https://www.nyu.edu/"><img src="assets/img/New_York_University-Logo.png" height="75"></a></td> -->
 
 <table style="width:100%; align: left; border: none; spacing: none">
-  <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="40"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.deakin.edu.au/"><img src="assets/img/inst-deakin.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://simular.ai/"><img src="assets/img/inst-simular.png" height="40"></a></td>
+  <tbody><tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-rice.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-nyu.jpg" height="40"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-unu.png" height="40"></a></td>
   </tr>
-</table>
+</tbody></table>
 <table style="width:100%; align: left; border: none; spacing: none">
-  <tr> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.cs.umd.edu/"><img src="assets/img/inst-umd-cs.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.clemson.edu/index.html"><img src="assets/img/inst-clemson.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.nyu.edu/"><img src="assets/img/New_York_University-Logo.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://tech.cornell.edu/"><img src="assets/img/inst-cornell-tech.png" height="40"></a></td>
-    <!-- <td style="text-align:center; border: none; spacing: none"></td> -->
+  <tbody><tr> 
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/sponsor-google.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-deepmind.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-monash.png" height="40"></a></td>
   </tr>
-</table>
+</tbody></table>
+
 ### Call for Papers
 
 
