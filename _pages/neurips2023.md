@@ -254,16 +254,16 @@ We gratefully acknowledge the support from our Sponsors.
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tbody><tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-rice.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-nyu.jpg" height="40"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-unu.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-rice.png" height="40"></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-nyu.jpg" height="40"></td>  
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-unu.png" height="40"></td>
   </tr>
 </tbody></table>
 <table style="width:100%; align: left; border: none; spacing: none">
   <tbody><tr> 
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/sponsor-google.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-deepmind.png" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-monash.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/sponsor-google.png" height="40"></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-deepmind.png" height="40"></td>
+    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-monash.png" height="40"></td>
   </tr>
 </tbody></table>
 
