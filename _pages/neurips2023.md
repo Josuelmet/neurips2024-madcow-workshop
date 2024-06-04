@@ -39,7 +39,7 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">Start Time (PDT/GMT-07:00, Vancouver)</th>
+      <th style="text-align: left">Start Time<br>(PDT/GMT-07:00,<br>Vancouver)</th>
       <th style="text-align: left">Session</th>
       <th style="text-align: left">Speaker(s)</th>
     </tr>
