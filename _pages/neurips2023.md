@@ -217,11 +217,11 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 We gratefully acknowledge the support from our Sponsors.
 
 <table style="width:100%; border: none;">
-<td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/sponsor-troj-ai.png" height="55"></a></td>
+<td style="text-align:center; border: none;"><img src="assets/img/sponsor-troj-ai.png" height="55"></a></td>
 
-<td style="text-align:center; border: none;"><a href="https://ml.umd.edu/"><img src="assets/img/sponsor-umd-cml.png" height="65"></a></td>
+<td style="text-align:center; border: none;"><img src="assets/img/sponsor-umd-cml.png" height="65"></a></td>
 
-<td style="text-align:center; border: none;"><a href="https://www.google.org/"><img src="assets/img/sponsor-google.png" height="75"></a></td>
+<td style="text-align:center; border: none;"><img src="assets/img/sponsor-google.png" height="75"></a></td>
 </table>
 
 
