@@ -2,27 +2,156 @@
 layout: home
 order: 1
 permalink: /
-title: Workshop 2023
+title: Workshop 2024
 # redirect_from: /index.html
-desc_title: Backdoors in Deep Learning @ NeurIPS 2023
-description: <strong>The Good, the Bad and the Ugly</strong> - Modern AI development requires using and sharing of models and data safely. Uncovering backdoor, a foe and a friend at the front door.
+desc_title: AI in the Synthetic Age @ NeurIPS 2024
+description: <strong>The Synthetic Data Age is here to stay</strong> - Generative AI models are training on AI-generated data, whether knowingly or unknowingly. What does this mean for the future, and how do we handle it?
 social: true
 ---
 
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:center"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
-Deep neural networks (DNNs) are revolutionizing almost all AI domains and have become the core of many modern AI systems. Despite their superior performance compared to classical methods, DNNs also face new security problems, such as adversarial and backdoor attacks, that are hard to discover and resolve due to their black-box-like property. Backdoor attacks are possible because of insecure model pretraining and outsourcing practices. Due to the complexity and the tremendous cost of collecting data and training models, many individuals/companies employ models or training data from third parties. Malicious third parties can add backdoors into their models or poison their released data before delivering it to the victims to gain illegal benefits. This threat seriously damages the safety and trustworthiness of AI development.
-
-While most works consider backdoors “evil”, some studies leverage them for good purposes. A popular approach is to use the backdoor as a watermark to detect illegal uses of commercialized data/models. Watermarks can also be used to mark generated data, which becomes crucial with the introduction of big generative models (LLMs, text-to-image generators). For instance, the paper “A Watermark for Large Language Models” has received an outstanding paper award at ICML 2023, showing the community’s great interest in this critical topic. Besides, a few works employ the backdoor as a trapdoor for adversarial defense. Learning the underlying working mechanisms of backdoors also elevates our understanding of how deep learning models work.
-This workshop is designed to provide a comprehensive understanding of the current state of backdoor research. Our goal is to foster discussion and perspective exchange, as well as to engage the community in identifying social good applications of backdoors.
+Advances in generative artificial intelligence (AI) algorithms for imagery, text, and other data types have led to the temptation to use AI-synthesized data to train next-generation models.
+Repeating this process creates a self-consuming loop whose properties are poorly understood.
+This workshop seeks to gather new insights for three key aspects of self-consuming AI models:
+<ol>
+  <li>
+    theoretical guarantees or empirical descriptions concerning the effects of self-consumption,
+  </li>
+  <li>
+    strategies to train generative AI models on AI-generated data while avoiding model collapse, and
+  </li>
+  <li>
+    identifying the ethical and societal impacts of self-consuming AI models.
+  </li>
+</ol>
 
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
 ### Schedule
 
-⭐ **Link to NeurIPS page: [https://neurips.cc/virtual/2023/workshop/66550](https://neurips.cc/virtual/2023/workshop/66550)** ⭐
+<!-- <p>⭐ <strong>Link to NeurIPS page: <a href="https://neurips.cc/virtual/2023/workshop/66550">https://neurips.cc/virtual/2023/workshop/66550</a></strong> ⭐</p> -->
+<p>🤖 <strong>Link to NeurIPS page: <a href="https://neurips.cc/">https://neurips.cc/virtual/2024/workshop/?????</a></strong> 🤖</p>
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Start Time (PDT/GMT-07:00, Vancouver)</th>
+      <th style="text-align: left">Session</th>
+      <th style="text-align: left">Speaker(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">08:55 am</td>
+      <td style="text-align: left">Opening Remarks</td>
+      <td style="text-align: left">Organizers</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">09:00 am</td>
+      <td style="text-align: left"><strong>Invited Talk 1:</strong> Title 1</td>
+      <td style="text-align: left">Speaker 1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">09:30 am</td>
+      <td style="text-align: left"><strong>Invited Talk 2:</strong> Title 2</td>
+      <td style="text-align: left">Speaker 2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">10:00 am</td>
+      <td style="text-align: left">Coffee Break</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">10:30 am</td>
+      <td style="text-align: left"><strong>Invited Talk 3:</strong> Title 3</td>
+      <td style="text-align: left">Speaker 3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">11:00 am</td>
+      <td style="text-align: left"><strong>Oral 1:</strong> Paper Title</td>
+      <td style="text-align: left">Paper Authors</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">11:15 am</td>
+      <td style="text-align: left"><strong>Invited Talk 4:</strong> Talk 4</td>
+      <td style="text-align: left">Speaker 4</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">11:45 am</td>
+      <td style="text-align: left">Lunch Break</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">01:00 pm</td>
+      <td style="text-align: left"><strong>Oral 2:</strong> Paper Title</td>
+      <td style="text-align: left">Paper Authors</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">01:15 pm</td>
+      <td style="text-align: left"><strong>Oral 3:</strong> Paper Title</td>
+      <td style="text-align: left">Paper Authors</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">01:30 pm</td>
+      <td style="text-align: left"><strong>Invited talk 5:</strong> Talk 5</td>
+      <td style="text-align: left">Speaker 5</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">02:00 pm</td>
+      <td style="text-align: left"><strong>Invited talk 6:</strong> Talk 6</td>
+      <td style="text-align: left">Speaker 6</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">02:30 pm</td>
+      <td style="text-align: left">Coffee Break</td>
+      <td style="text-align: left">&nbsp;</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">03:00 pm</td>
+      <td style="text-align: left"><strong>Poster Session</strong></td>
+      <td style="text-align: left">Paper Authors</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">03:45 pm</td>
+      <td style="text-align: left"><strong>Oral 4:</strong> Paper Title</td>
+      <td style="text-align: left">Paper Authors</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">04:00 pm</td>
+      <td style="text-align: left"><strong>Oral 5:</strong> Paper Title</td>
+      <td style="text-align: left">Paper Authors</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">04:15 pm</td>
+      <td style="text-align: left"><strong>Invited Talk 7:</strong> Talk 7</td>
+      <td style="text-align: left">Speaker 7</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">04:45 pm</td>
+      <td style="text-align: left"><strong>Panel Discussion</strong></td>
+      <td style="text-align: left">Moderator: John Doe</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">05:15 pm</td>
+      <td style="text-align: left">Closing Remarks</td>
+      <td style="text-align: left">Organizers</td>
+    </tr>
+  </tbody>
+</table>
 
 
 |----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
