@@ -1,2 +1,2 @@
-# neurips2023-bugs.github.io
-NeurIPS 2023 Backdoors in Deep Learning Workshop
+# neurips2024-madcow.github.io
+NeurIPS 2024 AI in the Synthetic Data Age Workshop
