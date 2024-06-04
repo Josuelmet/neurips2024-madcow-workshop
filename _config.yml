@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Backdoors in Deep Learning
-email: neurips2023-bugs@googlegroups.com
+name: AI in the Synthetic Data Age
+email: # neurips2023-bugs@googlegroups.com
 description: > # this means to ignore newlines until "url:"
-  Research on Deep Learning Backdoors
+  Unintended Consequences and Potential Mitigation of Synthetic Data
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 url:  # the base hostname & protocol for your site
@@ -14,7 +14,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: neurips2023-bugs
+github_username: Josuelmet
 twitter_username: # your Twitter user name
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -22,8 +22,7 @@ orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 
-contact_note: >
-  Feel free to reach out!
+contact_note: # Feel free to reach out!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
