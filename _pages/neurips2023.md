@@ -37,6 +37,11 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 
 
 <table>
+  <colgroup>
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 70%;">
+    <col span="1" style="width: 15%;">
+  </colgroup>
   <thead>
     <tr>
       <th style="text-align: left">Start Time<br>(PDT/GMT-07:00,<br>Vancouver)</th>
