@@ -306,12 +306,14 @@ We welcome submissions related to any aspect of backdoor research, including but
 
 
 The workshop will employ a double-blind review process. Each submission will be evaluated based on the following criteria:
+<ul>
+  <li>Soundness of the methodology</li>
+  <li>Relevance to the workshop</li>
+  <li>Societal impacts</li>
+</ul>
 
-* Soundness of the methodology
-* Relevance to the workshop
-* Societal impacts
-
-We only consider submissions that haven’t been published yet in any peer-reviewed venue, including the NeurIPS 2024 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
+We only consider submissions that haven’t been published yet in any peer-reviewed venue, including the NeurIPS 2024 conference. <strong>We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings</strong>.
+All accepted papers will be allocated either a poster presentation or a talk slot.
  
 
 ### Important Dates
