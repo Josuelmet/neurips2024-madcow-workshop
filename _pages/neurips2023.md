@@ -252,18 +252,18 @@ We gratefully acknowledge the support from our Sponsors.
 
 ### Organizers affiliations
 
-<table style="width:100%; align: center; border: none; spacing: none">
+<table style="width:100%; align: center; text-align: center; border: none; spacing: none">
   <tbody><tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-rice.png" height="40"></td>
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-nyu.jpg" height="40"></td>  
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-unu.png" height="40"></td>
+    <td style="text-align:center; align: center; border: none; spacing: none"><img src="assets/img/inst-rice.png" height="40"></td>
+    <td style="text-align:center; align: center; border: none; spacing: none"><img src="assets/img/inst-nyu.jpg" height="40"></td>  
+    <td style="text-align:center; align: center; border: none; spacing: none"><img src="assets/img/inst-unu.png" height="40"></td>
   </tr>
 </tbody></table>
-<table style="width:100%; align: center; border: none; spacing: none">
+<table style="width:100%; align: center; text-align: center; border: none; spacing: none">
   <tbody><tr> 
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/sponsor-google.png" height="40"></td>
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-deepmind.png" height="40"></td>
-    <td style="text-align:center; border: none; spacing: none"><img src="assets/img/inst-monash.png" height="40"></td>
+    <td style="text-align:center; align: center; border: none; spacing: none"><img src="assets/img/sponsor-google.png" height="40"></td>
+    <td style="text-align:center; align: center; border: none; spacing: none"><img src="assets/img/inst-deepmind.png" height="40"></td>
+    <td style="text-align:center; align: center; border: none; spacing: none"><img src="assets/img/inst-monash.png" height="40"></td>
   </tr>
 </tbody></table>
 
@@ -273,7 +273,7 @@ We gratefully acknowledge the support from our Sponsors.
 
 We cordially invite submissions and participation in our “AI in the Synthetic Data Age: Unintended Consequences and Potential Mitigation” workshop that will be held on December 14 or 15, 2024 at NeurIPS 2024, Vancouver, Canada.
 
-The submission deadline is <strong> August 30th, 2024, 23:59 AoE</strong> and the submission link <a href="https://neurips.cc/">https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/????</a>.</p>
+The submission deadline is <strong> August 30th, 2024, 23:59 AoE</strong> and the submission link <a href="https://neurips.cc/">https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/????</a>.
 
 #### Topics
 
