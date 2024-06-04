@@ -38,13 +38,13 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 
 <table style="width: 100%">
   <colgroup>
-    <col span="1" style="width: 20%;">
-    <col span="1" style="width: 45%;">
-    <col span="1" style="width: 35%;">
+    <col span="1" style="width: 18%;">
+    <col span="1" style="width: 46%;">
+    <col span="1" style="width: 36%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: left">Start Time<br>(PDT/GMT-07:00,<br>Vancouver)</th>
+      <th style="text-align: left">Start Time (PDT/GMT-07:00, Vancouver)</th>
       <th style="text-align: left">Session</th>
       <th style="text-align: left">Speaker(s)</th>
     </tr>
@@ -157,6 +157,41 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
     </tr>
   </tbody>
 </table>
+
+
+### Speakers
+
+<table style="width:100%">
+  <tbody><tr>
+    <td style="text-align:center"><img src="./backdoors_files/speaker-josue-casco-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="./backdoors_files/speaker-tom-goldstein-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="./backdoors_files/speaker-nicolas-papernot-square.jpg" height="170" width="170"></td>
+    <!-- <td style="text-align:center"><img src="./backdoors_files/speaker-florian-tramer-square.png" height="170" width="170"></td> -->
+    <td style="text-align:center"><img src="./backdoors_files/speaker-abeba-birhane-square.png" height="170" width="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://sites.google.com/rice.edu/josuecasco-rodriguez/home">Josue Casco-Rodriguez</a> <br> Rice University</td>
+    <td style="text-align:center"><a href="https://www.cs.umd.edu/~tomg/">Tom Goldstein</a> <br> University of Maryland</td>
+    <td style="text-align:center"><a href="https://www.papernot.fr/">Nicolas Papernot</a> <br> University of Toronto</td>
+    <!-- <td style="text-align:center"><a href="https://floriantramer.com/">Rohan Taori or Tatsunori B. Hashimoto</a> <br> Stanford University</td> -->
+    <td style="text-align:center"><a href="https://abebabirhane.com/">Abeba Birhane</a> <br> Mozilla Foundation</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="./backdoors_files/speaker-nate-gillman-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="./backdoors_files/speaker-elvis-dohmatob-square.jfif" height="170" width="170"></td>
+    <!-- <td style="text-align:center"><img src="./backdoors_files/speaker-scott-aaronson-square.jpg" height="170" width="170"></td> -->
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://cs.brown.edu/people/ngillman//">Nate Gillman</a> <br> Brown University</td>
+    <td style="text-align:center"><a href="https://dohmatob.github.io/">Elvis Dohmatob</a> <br> FAIR</td>
+    <!-- <td style="text-align:center"><a href="https://www.scottaaronson.com/">Scott Aaronson</a> <br> UT Austin, OpenAI	</td> -->
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+  </tr>
+</tbody></table>
+
 
 
 |----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
