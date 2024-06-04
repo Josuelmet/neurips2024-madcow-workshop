@@ -267,43 +267,43 @@ We gratefully acknowledge the support from our Sponsors.
   </tr>
 </tbody></table>
 
+
+
 ### Call for Papers
 
+We cordially invite submissions and participation in our “AI in the Synthetic Data Age: Unintended Consequences and Potential Mitigation” workshop that will be held on December 14 or 15, 2024 at NeurIPS 2024, Vancouver, Canada.
 
-We cordially invite submissions and participation in our “Backdoors in Deep Learning: The Good, the Bad, and the Ugly” workshop (neurips2023-bugs.github.io) that will be held on December 15 or 16, 2023 at NeurIPS 2023, New Orleans, USA. 
+The submission deadline is <strong> August 30th, 2024, 23:59 AoE</strong> and the submission link <a href="https://neurips.cc/">https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/????</a>.</p>
 
-The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
+#### Topics
 
-#### Motivation and Topics
+We welcome submissions related to any aspect of backdoor research, including but not limited to:
 
-<!-- Deep neural networks (DNNs) are revolutionizing almost all AI domains and have become the core of many modern AI systems. Despite their superior performance compared to classical methods, DNNs also face new security problems, such as adversarial and backdoor attacks, that are hard to discover and resolve due to their black-box-like property. Backdoor attacks are possible because of insecure model pretraining and outsourcing practices. Due to the complexity and the tremendous cost of collecting data and training models, many individuals/companies employ models or training data from third parties. Malicious third parties can add backdoors into their models or poison their released data before delivering it to the victims to gain illegal benefits. This threat seriously damages the safety and trustworthiness of AI development.
+<ul>
+  <li>what happens when generative AI models train on AI-generated or AI-curated data?
+    <ul>
+      <li>theoretical guarantees</li>
+      <li>empirical descriptions</li>
+      <li>stability</li>
+    </ul>
+  </li>
+  <li>how can we mitigate the negative effects of AI self-consumption?
+    <ul>
+      <li>detection and removal of harmful synthetic data</li>
+      <li>new, less harmful, ways of training on synthetic data</li>
+      <li>self-improvement: improving generative AI models with self-synthesized data/li>
+      <li>synthetic data accumulation</li>
+      <li>synthetic data correction</li>
+    </ul>
+  </li>
+  <li>how will AI self-consumption impact society? examples include:
+    <ul>
+      <li>LLMs in search engines training and finding AI-generated data</li>
+      <li>AI model collapse and creativity</li>
+    </ul>
+  </li>
+</ul>
 
-While most works consider backdoors “evil”, some studies leverage them for good purposes. A popular approach is to use the backdoor as a watermark to detect illegal uses of commercialized data/models. Watermarks can also be used to mark generated data, which becomes crucial with the introduction of big generative models (LLMs, text-to-image generators). For instance, the paper “A Watermark for Large Language Models” has received an outstanding paper award at ICML 2023, showing the community’s great interest in this critical topic. Besides, a few works employ the backdoor as a trapdoor for adversarial defense. Learning the underlying working mechanisms of backdoors also elevates our understanding of how deep learning models work.
-This workshop is designed to provide a comprehensive understanding of the current state of backdoor research. Our goal is to foster discussion and perspective exchange, as well as to engage the community in identifying social good applications of backdoors. As such, we welcome submissions related to any aspect of backdoor research, including but not limited to: -->
-
-
-
-We welcome submissions related to any aspect of backdoor research, including but not limited to: 
-
-* Backdoor attacks
-  * Poisoning attacks
-  * Dirty-label backdoor attacks
-  * Clean-label backdoor attacks
-  * Backdoors in various learning paradigms (supervised, semi-supervised, self-supervised)
-  * Backdoors in various computer vision tasks (object detection, segmentation)
-  * Backdoors in multimodal models (vision+language)
-  * Backdoors in federated learning
-  * Backdoors in NLP and less-studied domains (speech, graphs)
-  * Backdoors in generative models (e.g., Diffusion models)
-  * Backdoors in Large Language Models
-* Backdoor defenses
-  * Backdoor detection (poisoned inputs, poisoned models) - Backdoor mitigation (data sanitization, model repair)
-  * Understanding backdoor behaviors
-* Backdoor for social good
-  * Watermarking (for IP Protection, Ownership Verification, Generative Data Marking, etc...)
-  * Trapdoor/Honeypot defenses
-  * Model unlearning
-  * Deep model behavior understanding
 
 The workshop will employ a double-blind review process. Each submission will be evaluated based on the following criteria:
 
@@ -311,32 +311,21 @@ The workshop will employ a double-blind review process. Each submission will be 
 * Relevance to the workshop
 * Societal impacts
 
-We only consider submissions that haven’t been published in any peer-reviewed venue, including NeurIPS 2023 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
+We only consider submissions that haven’t been published yet in any peer-reviewed venue, including the NeurIPS 2024 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
  
-<!-- ### Call for Reviewers
-Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
-
-🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆 -->
 
 ### Important Dates
 
-* **Submission deadline**: <s>September 29th, 2023</s> October 6th, 2023, 11:59 PM Anywhere on Earth (AoE)
-* **Author notification**: October 27th, 2023
-* **Camera-ready deadline**: December 1st, 2023, 11:59 PM Anywhere on Earth (AoE)
-* **Workshop date**: December 15th, 2023 (Full-day Event)
+<ul>
+  <li><strong>Submission deadline</strong>: August 30th, 2024, 23:59 Anywhere on Earth (AoE)</li>
+  <li><strong>Author notification</strong>: September 30th, 2024</li>
+  <li><strong>Camera-ready deadline</strong>: December 1st, 2024, 23:59 Anywhere on Earth (AoE)</li>
+  <li><strong>Workshop date</strong>: December 14th or 15th, 2023 (Full-day Event)</li>
+</ul>
 
 ### Submission Instructions
 
-Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>
+Papers should be submitted to OpenReview: <a href="https://neurips.cc/">https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/????</a>
 
-Submitted papers should have up to 6 pages (excluding references, acknowledgments, or appendices). Please use the NeurIPS submission template provided at <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles</a>.
+Submitted papers should have up to 6 pages (excluding references, acknowledgments, or appendices). Please use the NeurIPS submission template provided at <a href="https://neurips.cc/Conferences/2024/CallForPapers">https://neurips.cc/Conferences/2024/CallForPapers</a>.
 Submissions must be anonymous following NeurIPS double-blind reviewing guidelines, NeurIPS Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
-
-
-<!-- **Submission website: [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/NCW)**
-
-We solicit short workshop paper submissions of up to 4 pages + unlimited references/appendices. Please format submissions in ICML style. Submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.
-
-Some accepted papers will be accepted as contributed talks. All accepted posters are expected to be presented in-person at the poster session, and all papers published via Openreview after the workshop.
-
-This workshop will not have formal proceedings, so we welcome the submission of work currently under review at other archival ML venues. We also welcome the submission of work recently published in information theory venues (e.g. Transactions on Information Theory, ISIT, ITW) that may be of interest to an ML audience. However, we will not consider work recently published in or accepted to other archival ML venues (e.g. ICML main conference). -->
