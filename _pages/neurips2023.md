@@ -291,7 +291,7 @@ We welcome submissions related to any aspect of backdoor research, including but
     <ul>
       <li>detection and removal of harmful synthetic data</li>
       <li>new, less harmful, ways of training on synthetic data</li>
-      <li>self-improvement: improving generative AI models with self-synthesized data/li>
+      <li>self-improvement: improving generative AI models with self-synthesized data</li>
       <li>synthetic data accumulation</li>
       <li>synthetic data correction</li>
     </ul>
