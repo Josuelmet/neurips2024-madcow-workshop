@@ -38,9 +38,9 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 
 <table style="width: 100%">
   <colgroup>
-    <col span="1" style="width: 15%;">
-    <col span="1" style="width: 70%;">
-    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 45%;">
+    <col span="1" style="width: 35%;">
   </colgroup>
   <thead>
     <tr>
