@@ -36,7 +36,7 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 <p>🤖 <strong>Link to NeurIPS page: <a href="https://neurips.cc/">https://neurips.cc/virtual/2024/workshop/?????</a></strong> 🤖</p>
 
 
-<table>
+<table style="width: 100%">
   <colgroup>
     <col span="1" style="width: 15%;">
     <col span="1" style="width: 70%;">
