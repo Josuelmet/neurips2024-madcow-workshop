@@ -199,10 +199,10 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/panelist-franziska-boenisch-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-bo-li-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-baoyuan-wu-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-ruoxi-jia-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-richard-baraniuk-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-richard-baraniuk-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-richard-baraniuk-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-richard-baraniuk-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://franziska-boenisch.de/">Franziska Boenisch</a> <br>Tenure-track Faculty, CISPA</td>
@@ -217,9 +217,9 @@ This workshop seeks to gather new insights for three key aspects of self-consumi
 We gratefully acknowledge the support from our Sponsors.
 
 <table style="width:100%; border: none;">
-<td style="text-align:center; border: none;"><img src="assets/img/sponsor-troj-ai.png" height="55"></td>
+<td style="text-align:center; border: none;"><img src="assets/img/sponsor-google.png" height="55"></td>
 
-<td style="text-align:center; border: none;"><img src="assets/img/sponsor-umd-cml.png" height="65"></td>
+<td style="text-align:center; border: none;"><img src="assets/img/sponsor-google.png" height="65"></td>
 
 <td style="text-align:center; border: none;"><img src="assets/img/sponsor-google.png" height="75"></td>
 </table>
